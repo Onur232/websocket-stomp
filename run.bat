@@ -1,0 +1,1 @@
+java -jar gs-messaging-stomp-websocket-0.1.0.jar
